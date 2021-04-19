@@ -12,6 +12,7 @@ This *theme* **features:**
 1. Numbered 1
 1. Numbered 2
 1. Numbered 3
+1. Numbere sushi
 
 
 This is a `line caode`.
@@ -19,6 +20,5 @@ This is a `line caode`.
 ```
 This is long code 
 in multiple lines
-mag pull kana ng files
 ```
 
