@@ -15,10 +15,11 @@ This *theme* **features:**
 1. Numbere sushi
 
 
-This is a `line caode`.
+This is a `line code`.
 
 ```
 This is long code 
 in multiple lines
+You can pull the codes
 ```
 
